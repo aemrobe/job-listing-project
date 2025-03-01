@@ -43,21 +43,21 @@ body {
   background-color: var(--light-grayish-cyan-back);
 }
 
-header{
+header {
   height: 156px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-color: var(--desaturated-dark-cyan);
-  background-image: url('/public/assets/images/bg-header-mobile.svg');
+  background-image: url("/public/assets/images/bg-header-mobile.svg");
 }
 
-#root{
+#root {
   min-height: 100vh;
 }
 
 .app {
-  width:90%;
+  width: 90%;
   margin: 0 auto;
   max-width: 1100px;
   padding-bottom: 6.4rem;
@@ -160,7 +160,6 @@ header{
   gap: 1.6rem;
   box-shadow: var(--box-shadow);
   margin-top: -3.5rem;
-
 }
 
 .filter-box__items {
@@ -273,7 +272,7 @@ header{
   }
 
   header {
-    background-image: url('/public/assets/images/bg-header-desktop.svg');
+    background-image: url("/public/assets/images/bg-header-desktop.svg");
   }
   .job-company-profile {
     display: flex;
@@ -335,10 +334,12 @@ header{
     padding: 3.5rem;
     margin: 3rem auto 0;
   }
+
   .job-company-profile__header-container {
     display: flex;
     flex-direction: row;
   }
+
   .job-company-profile__company-logo {
     width: 7.8rem;
     height: 7.8rem;
