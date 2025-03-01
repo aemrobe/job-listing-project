@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/job-listing-project-hIgQVjPODY)
+- Live Site URL: [live site URL](https://aemrobe.github.io/job-listing-project/)
 
 ## My process
 
