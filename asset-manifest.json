@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.5bd0115f.css",
-    "main.js": "/static/js/main.6c8d0c81.js",
-    "static/media/LeagueSpartan-Bold.ttf": "/static/media/LeagueSpartan-Bold.c311dbd01e80ebe50942.ttf",
-    "static/media/LeagueSpartan-Medium.ttf": "/static/media/LeagueSpartan-Medium.a8c3b9360d69edbcf13e.ttf",
-    "static/media/bg-header-desktop.svg": "/static/media/bg-header-desktop.752d0faf14c00c6fb55f.svg",
-    "index.html": "/index.html",
-    "static/media/bg-header-mobile.svg": "/static/media/bg-header-mobile.b7750a0c3e0c016763b9.svg",
-    "main.5bd0115f.css.map": "/static/css/main.5bd0115f.css.map",
-    "main.6c8d0c81.js.map": "/static/js/main.6c8d0c81.js.map"
+    "main.css": "/job-listing-project/static/css/main.0799bfdb.css",
+    "main.js": "/job-listing-project/static/js/main.f082e979.js",
+    "static/media/LeagueSpartan-Bold.ttf": "/job-listing-project/static/media/LeagueSpartan-Bold.c311dbd01e80ebe50942.ttf",
+    "static/media/LeagueSpartan-Medium.ttf": "/job-listing-project/static/media/LeagueSpartan-Medium.a8c3b9360d69edbcf13e.ttf",
+    "static/media/bg-header-desktop.svg": "/job-listing-project/static/media/bg-header-desktop.752d0faf14c00c6fb55f.svg",
+    "index.html": "/job-listing-project/index.html",
+    "static/media/bg-header-mobile.svg": "/job-listing-project/static/media/bg-header-mobile.b7750a0c3e0c016763b9.svg",
+    "main.0799bfdb.css.map": "/job-listing-project/static/css/main.0799bfdb.css.map",
+    "main.f082e979.js.map": "/job-listing-project/static/js/main.f082e979.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bd0115f.css",
-    "static/js/main.6c8d0c81.js"
+    "static/css/main.0799bfdb.css",
+    "static/js/main.f082e979.js"
   ]
 }
