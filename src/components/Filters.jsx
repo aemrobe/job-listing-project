@@ -1,3 +1,5 @@
+import { URL } from "../config/config";
+
 const Filters = ({
   activeFilters = [],
   handleClearFilters,
@@ -19,7 +21,7 @@ const Filters = ({
               aria-label={`Remove ${filter} Filter`}
             >
               <img
-                src="/assets/images/icon-remove.svg"
+                src={`${URL}/images/icon-remove.svg`}
                 aria-hidden="true"
                 alt=""
               />
